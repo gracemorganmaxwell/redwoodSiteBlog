@@ -17,7 +17,7 @@ const BlogLayout = ({ children }) => {
       </header>
       <main>{children}</main>
     </>
-  );
-};
+  )
+}
 
 export default BlogLayout
